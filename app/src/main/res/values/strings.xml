@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatTodo</string>
+    <string name="welcome_message">Welcome, User!</string>
+    <string name="go_button">Go</string>
+    <string name="todo_hint">Enter a new to-do item</string>
+    <string name="add_button">Add</string>
+</resources>
